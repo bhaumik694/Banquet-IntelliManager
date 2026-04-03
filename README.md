@@ -53,36 +53,6 @@ Whether you're managing a single venue or a chain of banquet facilities, this pl
 | **Styling**   | CSS / Tailwind CSS *(inferred)*    |
 
 ---
-
-## 📁 Project Structure
-
-```
-Banquet-IntelliManager/
-├── frontend/          # React/Next.js client application
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── services/
-│   └── package.json
-│
-├── backend/           # Node.js/Express REST API server
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── package.json
-│
-├── fastapi/           # Python FastAPI service for analytics & AI features
-│   ├── main.py
-│   ├── routers/
-│   └── requirements.txt
-│
-├── .vscode/           # Editor settings
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
